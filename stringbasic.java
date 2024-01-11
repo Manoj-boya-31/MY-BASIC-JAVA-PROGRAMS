@@ -26,7 +26,7 @@ public class stringbasic {
         System.out.println();
 
         // FROM CHAR ARRAY TO STRINGS
-        char ma[] = { 's', 'u', 'p', 'e', 'r' };
+        char ma[] = { 's', 'u', 'b', 'b', 'u' };
         String cd = new String(ma);
         System.out.println(cd);
         // returns string length below of string(cd)
